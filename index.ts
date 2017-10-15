@@ -19,6 +19,8 @@ function getPath(path?: string): string {
   return "/mnt/RaidBot/config.toml";
 }
 
-module.exports = (path?: string): RaidBotConfig => {
+export function getConfig(path?: string): RaidBotConfig {
   return toml(fs.readFileSync(getPath(path)).toString()) as RaidBotConfig;
-};
+}
+
+module.exports = getConfig;
