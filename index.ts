@@ -4,7 +4,7 @@ import toml = require("tomljs");
 export class RaidBotConfig {
   public clientID: string;
   public clientSecret: string;
-  public botSecret: string;
+  public botToken: string;
   public guildID: string;
   public hostname: string;
   public soundpath: string;
