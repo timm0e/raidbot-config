@@ -1,0 +1,5 @@
+index.ts
+ts*
+.vscode
+index.js.map
+bitbucket-pipelines.yml
