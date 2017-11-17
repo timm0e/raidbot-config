@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/RaidCloud/raidbot-config.git"
+    "url": "https://github.com/timm0e/raidbot-config.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/RaidCloud/raidbot-config#readme"
+  "homepage": "https://github.com/timm0e/raidbot-config"
 }

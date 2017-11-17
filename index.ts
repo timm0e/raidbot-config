@@ -1,7 +1,7 @@
 import fs = require("fs");
 import toml = require("tomljs");
 
-export class RaidBotConfig {
+export declare class RaidBotConfig {
   public clientID: string;
   public clientSecret: string;
   public botToken: string;
