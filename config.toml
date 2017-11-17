@@ -1,0 +1,10 @@
+# See your Discord Dev Panel for these
+clientID = "YOUR_ID_HERE"
+clientSecret = "YOUR_SECRET_HERE"
+botToken = "YOUR_BOT_TOKEN_HERE"
+# Enable Developer Mode in Discord and Right Click your Server to copy its ID
+guildID = "YOUR_GUILD_ID_HERE"
+
+# Self explaining
+hostname = "http://your.server"
+soundpath = "/mnt/RaidBot/sounds/"
