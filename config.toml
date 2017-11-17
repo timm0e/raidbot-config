@@ -6,5 +6,5 @@ botToken = "YOUR_BOT_TOKEN_HERE"
 guildID = "YOUR_GUILD_ID_HERE"
 
 # Self explaining
-hostname = "http://your.server"
+hostname = "http://your.server/"
 soundpath = "/mnt/RaidBot/sounds/"
