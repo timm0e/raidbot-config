@@ -8,3 +8,6 @@ guildID = "YOUR_GUILD_ID_HERE"
 # Self explaining
 hostname = "http://your.server/"
 soundpath = "/mnt/RaidBot/sounds/"
+
+# Cookie secret for the webinterface, just be creative here
+cookieSecret = "yourSuperSecretSecret"

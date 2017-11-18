@@ -8,6 +8,7 @@ export declare class RaidBotConfig {
   public guildID: string;
   public hostname: string;
   public soundpath: string;
+  public cookieSecret: string;
 }
 
 function getPath(path?: string): string {
