@@ -6,8 +6,9 @@ botToken = "YOUR_BOT_TOKEN_HERE"
 guildID = "YOUR_GUILD_ID_HERE"
 
 # Self explaining
-hostname = "http://your.server/"
-soundpath = "/mnt/RaidBot/sounds/"
+hostname = "http://your.server/" # Keep the '/' at the end or things will go wrong
+# Also, remember to put '<hostname> + auth/discord/callback/' into your redirect uris in your Discord Dev Panel
+soundpath = "/mnt/RaidBot/sounds/" # Keep the '/' at the end or things will go wrong
 
 # Cookie secret for the webinterface, just be creative here
 cookieSecret = "yourSuperSecretSecret"
